@@ -17,7 +17,9 @@ cyoAdventure = function (a) {
 	       	e.running_mate_image_url = 'https://i.imgur.com/JScesB9.png';
     } else if (ans == 3275) {
 	       	e.candidate_last_name = 'ERROR';
+		e.candidate_image_url = 'https://i.imgur.com/GcxUbEO.jpeg';
 	       	e.running_mate_last_name = 'ERROR';
+	       	e.running_mate_image_url = 'https://i.imgur.com/GcxUbEO.jpeg';
            	} else {
     }
 }
